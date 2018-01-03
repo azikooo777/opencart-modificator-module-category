@@ -1,7 +1,7 @@
 # OpenCart modification module category  for OpenCart 3.x
 By default module category not show subcategories if the current page is not active category.
 
-This module corrects this.
+This modification corrects this.
 
 # EXAMPLE
 
